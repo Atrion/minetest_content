@@ -1,0 +1,52 @@
+Press T then type this
+
+/grant singleplayer fly,fast
+
+k to grant free motion
+space up
+left shift down
+
+/grant singleplayer all
+***
+F3 to disable fog
+F5 to enable debug
+F9 to turn on the mimimap
+
+***
+
+A schematic file (.mts) is used to import building(s) into a world with WorldEdit. 
+This file can be found into the “worlds/<my_world>/schems” folder.
+
+How to create a schematic file : 
+
+1. Enter in your world (with WorldEdit enabled).
+2. Grant yourself all privileges : /grant singleplayer all¹. 
+3. Press F5 to display the coordinates.
+4. Select the area to export with : //pos1 and //pos2.
+5. Create your schematic file with : //mtschemcreate <name of your schematic file>. 
+
+Your schematic will appears into the “worlds/<my_world>/schems" folder.
+
+How to import a schematic file : 
+
+1. Enter in your world (with WorldEdit enabled).
+2. Grant yourself all privileges : /grant singleplayer all¹. 
+3. Move a schematic file into the “worlds/<my_world>/schems” folder.
+4. Press F5 to display the coordinates.
+5. Select a position with : //pos1
+6. Import your schematic file from the chosen position with : //mtschemplace <name of your schematic file>
+
+/grant singleplayer all
+F5
+//pos1
+//mtschemplace Minas
+//mtschemplace erebor
+
+***
+
+item_entity_ttl = 180
+server_unload_unused_data_timeout = 60
+client_unload_unused_data_timeout = 60
+ignore_world_load_errors = true
+enable_mesh_cache = false
+enable_minimap = true
