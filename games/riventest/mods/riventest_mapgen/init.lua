@@ -1,0 +1,27 @@
+--
+-- Aliases for map generator outputs
+--
+minetest.register_alias("mapgen_air", "air")
+minetest.register_alias("mapgen_stone", "riventest:stone2")
+minetest.register_alias("mapgen_tree", "air")
+minetest.register_alias("mapgen_leaves", "air")
+minetest.register_alias("mapgen_jungletree", "air")
+minetest.register_alias("mapgen_jungleleaves", "air")
+minetest.register_alias("mapgen_apple", "air")
+minetest.register_alias("mapgen_water_source", "riventest:water_source")
+minetest.register_alias("mapgen_dirt", "riventest:stone1")
+minetest.register_alias("mapgen_sand", "riventest:goldstone1")
+minetest.register_alias("mapgen_gravel", "riventest:bluestone")
+minetest.register_alias("mapgen_clay", "riventest:stone1")
+minetest.register_alias("mapgen_lava_source", "riventest:water_source")
+minetest.register_alias("mapgen_cobble", "riventest:stone2")
+minetest.register_alias("mapgen_mossycobble", "riventest:stone2")
+minetest.register_alias("mapgen_dirt_with_grass", "riventest:stone1")
+minetest.register_alias("mapgen_junglegrass", "riventest:stone1")
+minetest.register_alias("mapgen_stone_with_coal", "riventest:stone1")
+minetest.register_alias("mapgen_stone_with_iron", "riventest:stone2")
+minetest.register_alias("mapgen_mese", "riventest:rt5")
+minetest.register_alias("mapgen_desert_sand", "riventest:goldstone1")
+minetest.register_alias("mapgen_desert_stone", "riventest:goldstone1")
+minetest.register_alias("mapgen_stair_cobble", "riventest:stone2")
+

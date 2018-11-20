@@ -1,0 +1,73 @@
+Riventest’s incomplete node list
+================================
+This file lists all the itemstrings for the nodes of the riventest mod. Not included are the nodes of the staircase mod.
+Riventest also defines a couple of aliases for convenience reasons.
+
+Alias		Itemstring			Description
+-- DOORS --
+stickdoor	riventest:door1			Plain Stick Door
+uldoor		riventest:door2			User-Locked Door
+kldoor		riventest:door3			Keycode-Locked Door
+
+-- LINKING BOOKS --
+blankbook	riventest:linkingbook_blank	Blank Linking Book	(NEW NODE)
+bluebook	riventest:linkingbook		Linking Book
+redbook		riventest:plinkingbook		Private Linking Book
+
+-- DECORATIONAL BOOKS --
+rtpuzzle	riventest:rt16			Puzzle Book
+
+-- STONES --
+		riventest:rt11			Flower-Patterned Brightstone
+		riventest:rt8			Cobble Brightstone
+		riventest:rt1			Inward-squared Brownstone
+		riventest:rt3			Lined Brownstone
+		riventest:rt7			Outward-squared Brownstone
+		riventest:rt12			Mosaic Brownestone
+rtbluestone	riventest:stoneblue		Bluestone
+rtgold1		riventest:goldstone1		Goldstone
+rtgold2		riventets:goldstone2		Brightstone
+rtstone1	riventest:stone1		Brownstone
+rtstone2	riventest:stone2		Graystone
+
+-- METAL --
+		riventest:rt4			Metal Node
+		riventest:rt10			Rusted Metal Node
+		riventest:rt2			Flower-Patterned Metal
+		riventest:rt5			Golden Node
+rtbulkhead	riventest:bulkhead		Metal Bulkhead
+rtmetal		riventest:metal			Black Metal
+
+-- WOOD --
+rtwood		riventest:wood			Wood
+rtbluewood	riventest:woodblue		Bluewood
+
+-- GLASS --
+rtglass		riventest:glass			Glass
+		riventest:rt15			Stained Glass
+
+-- LAMPPOSTS --
+rttlamp		riventest:rt9_lamppost		Turquiose Lamppost	(NEW ALIAS)
+rtolamp		riventest:rt17_lamppost		Orange Lamppost		(NEW ALIAS)
+rtglamp		riventest:rt18_lamppost		Green Lamppost		(NEW ALIAS)
+rtrlamp		riventest:rt19_lamppost		Red Lamppost		(NEW ALIAS)
+
+-- PLANTS --
+rtmushroom	riventest:rt6_mushroom		Mushroom		NEW ALIAS
+
+-- CHAINS --
+rtchain		riventest:chain			Chain
+
+-- LIQUIDS --
+rtwater		riventest:water			Water Source
+
+-- TOOLS --
+rttool		riventest:tool			Dagger
+
+-- WALL DECO --
+rtt1		riventest:1			Art (1)
+rtt2		riventest:2			Art (2)
+rtt3		riventest:3			Art (3)
+rtbeetle	riventest:beetle		Decor Beetle
+rtdagger	riventest:dagger		Decor Dagger
+

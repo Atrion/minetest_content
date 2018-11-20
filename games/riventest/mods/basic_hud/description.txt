@@ -1,0 +1,1 @@
+Adds basic but neccessary HUD images: Heart icon, bubble icon, …

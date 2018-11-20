@@ -1,0 +1,1 @@
+Provides a basic creative inventory in the player's inventory menu, when the creative mode is active.
